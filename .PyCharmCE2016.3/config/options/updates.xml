@@ -1,0 +1,7 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <ignoredBuildNumbers>
+      <item value="163.15529.25" />
+    </ignoredBuildNumbers>
+  </component>
+</application>
